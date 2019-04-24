@@ -1,3 +1,7 @@
+# Wyniki testów
+
+![alt text](https://raw.githubusercontent.com/sebastianrziolkowski/Sortowanie_ze_zliczaniem/master/Sortowanie%20ze%20zliczaniem.bmp)
+
 # Sortowanie_ze_zliczaniem
 <p>
 W pewnym doświadczeniu zebrano dane pewnych pomiarów całkowitoliczbowych dodatnich. Dodatkowym parametrem w tym doświadczeniu była krotność wystąpień odpowiedniej wartości.
